@@ -51,6 +51,10 @@ pnpm build
 ```shell
 pnpm serve --host
 ```
+项目中已经配置了 Commitizen，可以帮助你生成符合规范的提交信息。使用以下命令来提交代码:
+```shell
+npx cz
+```
 
 ## 文档 | Documents
 
